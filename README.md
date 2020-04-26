@@ -15,7 +15,7 @@
 * Write at least 8 tests including numbers 35, 469, 999 and 1948.
 
 ## <a name="Project">Project Direction</a>
-
+Practicing the TDD process to convert integers into roman numerals.
 
 ## <a name="Install">Installation</a>
 * To clone the repo
